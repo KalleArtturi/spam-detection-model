@@ -1,4 +1,4 @@
-# 📧 Spam Detection Model
+# Spam Detection Model
 
 A machine learning pipeline that classifies text messages as **spam** or **ham** (legitimate), built with pandas and scikit-learn. The project is split into stage-by-stage Jupyter notebooks, each saving its output so the next stage can pick up where the last one left off.
 
